@@ -28,4 +28,15 @@ public class BallInteraction : MonoBehaviour
         GetComponent<Rigidbody>().angularVelocity = Vector3.zero;
         transform.position = initLocation;
     }
+
+    public void ChangeMass(float value)
+    {
+        GetComponent<Rigidbody>().mass = value;
+        transform.localScale = new  Vector3(value, value, value);
+    }
+
+    public void ChangeHeight(float value)
+    {
+        transform.position= new Vector3(0, value, 0) + initLocation;
+    }
 }

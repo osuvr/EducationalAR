@@ -13,7 +13,7 @@
       "dependencies": {}
     },
     "com.unity.ads": {
-      "version": "3.4.9",
+      "version": "3.5.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -22,7 +22,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.analytics": {
-      "version": "3.3.5",
+      "version": "3.5.3",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -47,7 +47,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ide.visualstudio": {
-      "version": "2.0.2",
+      "version": "2.0.3",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
@@ -120,37 +120,37 @@
       }
     },
     "com.unity.xr.arcore": {
-      "version": "3.1.7",
+      "version": "3.1.8",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.xr.arsubsystems": "3.1.5",
+        "com.unity.xr.arsubsystems": "3.1.6",
         "com.unity.xr.management": "3.2.13",
         "com.unity.modules.androidjni": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.arfoundation": {
-      "version": "3.1.5",
+      "version": "3.1.6",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.xr.arsubsystems": "3.1.5"
+        "com.unity.xr.arsubsystems": "3.1.6"
       },
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.arkit": {
-      "version": "3.1.7",
+      "version": "3.1.8",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.xr.arsubsystems": "3.1.5",
+        "com.unity.xr.arsubsystems": "3.1.6",
         "com.unity.xr.management": "3.2.13"
       },
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.arsubsystems": {
-      "version": "3.1.5",
+      "version": "3.1.6",
       "depth": 1,
       "source": "registry",
       "dependencies": {
