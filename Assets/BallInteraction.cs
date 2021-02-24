@@ -11,7 +11,7 @@ public class BallInteraction : MonoBehaviour
     [SerializeField]
     GameObject potentialValueField;
     
-    private const float g = 9.81f;
+    private const float g = 9.8f;
     private Vector3 initLocation;
     private float initMass;
     private bool simulating = false;
